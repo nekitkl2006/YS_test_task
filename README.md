@@ -1,2 +1,2 @@
-# YS_test_task
-Test task for YouScouts
+# YS_test_tasks
+Test tasks for YouScouts
